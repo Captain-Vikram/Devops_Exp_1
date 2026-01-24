@@ -3,7 +3,7 @@ pipeline {
 
     // 1. We tell Jenkins to look for a Maven installation named "Maven"
     tools {
-        maven 'M3' 
+        maven 'Maven' 
     }
 
     environment {

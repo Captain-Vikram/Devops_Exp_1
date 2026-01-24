@@ -30,7 +30,8 @@ env/
 ENV/
 env.bak/
 venv.bak/
-
+Jenkins/
+.scannerwork/
 test.txt
 # PyInstaller
 #  Usually these files are written by a python script from a template

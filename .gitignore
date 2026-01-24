@@ -134,3 +134,9 @@ logs/
 # Coverage
 .coverage
 .coverage.*
+
+Jenkins/
+SonarQube/
+captured_data/
+.scannerwork/
+
